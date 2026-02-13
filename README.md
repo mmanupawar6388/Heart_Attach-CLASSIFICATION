@@ -1,3 +1,14 @@
+---
+title: Heart Attack Risk Classification
+emoji: ❤️
+colorFrom: pink
+colorTo: purple
+sdk: gradio
+sdk_version: 5.0.0
+app_file: app.py
+pinned: false
+license: mit
+---
 # ❤️ Heart Attack Risk Classification
 
 A lightweight neural network for binary classification of heart attack risk, built with **TensorFlow/Keras** and deployable via **FastAPI**.
